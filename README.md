@@ -1,7 +1,7 @@
 
 
 <p align="center">
-	<img src="assets/header.png" alt="Banner" width="700" height="233" style="max-width:100%;height:auto;object-fit:cover;" />
+	<img src="assets/header.png" alt="Header" width="400" style="max-width:100%;height:auto;" />
 </p>
 
 <div align="center">
