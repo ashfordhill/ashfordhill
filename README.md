@@ -10,5 +10,5 @@
 
 #
 <p align="center">
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fspotify.ashhill.dev%3FlogoColor%23F504E9&style=flat-square&color=191414" alt="Spotify Badge" style="display:inline-block;margin:0 2px;vertical-align:middle;" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fspotify.ashhill.dev%3FlogoColor%3DF504E9&style=flat-square&color=191414" alt="Spotify Badge" style="display:inline-block;margin:0 2px;vertical-align:middle;" />
 </p>
