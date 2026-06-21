@@ -1,3 +1,18 @@
+<marquee behavior="scroll" direction="left" style="font-size:1.2em; color:#F504E9; font-family:monospace; margin-top:2em;">seE LiVe nOw~ limTied admiSSiON</marquee>
+
+
+<!-- Improved seamless CSS marquee (may not work on GitHub.com) -->
+<div style="overflow:hidden;white-space:nowrap;width:100%;margin-top:2em;">
+	<span style="display:inline-block;white-space:nowrap;animation:scroll-left 12s linear infinite;font-size:1.2em;color:#F504E9;font-family:monospace;">
+		seE LiVe nOw~ limTied admiSSiON &nbsp; seE LiVe nOw~ limTied admiSSiON
+	</span>
+</div>
+<style>
+@keyframes scroll-left {
+	0% { transform: translateX(100); }
+	100% { transform: translateX(-100%); }
+}
+</style>
 
 
 <p align="center">
