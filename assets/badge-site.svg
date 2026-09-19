@@ -3,8 +3,14 @@
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="0.8"/>
     </filter>
+    <g id="letters" fill="none" stroke-width="2.6" stroke-linecap="square" stroke-linejoin="round">
+      <path d="M20,8.5 Q13,7 13,10.5 Q13,13.5 16.5,14 Q20,14.5 20,17.5 Q20,21 13,19.5"/>
+      <path d="M26,7 L26,21"/>
+      <path d="M32,7 L39,7 M35.5,7 L35.5,21"/>
+      <path d="M51,7 L45,7 L45,21 L51,21 M45,14 L49,14"/>
+    </g>
   </defs>
   <rect width="64" height="28" rx="4" ry="4" fill="#F54600"/>
-  <text x="32" y="16" text-anchor="middle" dominant-baseline="central" font-family="Chiller, Herculanum, Papyrus, Georgia, serif" font-size="13" font-weight="700" letter-spacing="1" fill="#FCEBAE" opacity="0.55" filter="url(#glow)">SITE</text>
-  <text x="32" y="15" text-anchor="middle" dominant-baseline="central" font-family="Chiller, Herculanum, Papyrus, Georgia, serif" font-size="13" font-weight="700" letter-spacing="1" fill="#1A1A1A">SITE</text>
+  <use href="#letters" stroke="#FCEBAE" opacity="0.55" filter="url(#glow)"/>
+  <use href="#letters" stroke="#1A1A1A"/>
 </svg>
