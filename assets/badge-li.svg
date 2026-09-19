@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="44" height="28" viewBox="0 0 44 28">
-  <rect width="44" height="28" fill="#C81F98"/>
-  <text x="22" y="15" text-anchor="middle" dominant-baseline="central" font-family="Verdana, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#1A1A1A">LI</text>
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="0.8"/>
+    </filter>
+  </defs>
+  <rect width="44" height="28" rx="4" ry="4" fill="#C81F98"/>
+  <path d="M35 4.5 L35 8.5 M33 6.5 L37 6.5" stroke="#7FF0E8" stroke-width="1" stroke-linecap="round" opacity="0.85"/>
+  <text x="22" y="16" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#FCEBAE" opacity="0.55" filter="url(#glow)">LI</text>
+  <text x="22" y="15" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#1A1A1A">LI</text>
 </svg>

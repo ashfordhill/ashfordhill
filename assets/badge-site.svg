@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="28" viewBox="0 0 64 28">
-  <rect width="64" height="28" fill="#D95410"/>
-  <text x="32" y="15" text-anchor="middle" dominant-baseline="central" font-family="Verdana, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#1A1A1A">SITE</text>
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="0.8"/>
+    </filter>
+  </defs>
+  <rect width="64" height="28" rx="4" ry="4" fill="#D95410"/>
+  <path d="M55 4.5 L55 8.5 M53 6.5 L57 6.5" stroke="#7FF0E8" stroke-width="1" stroke-linecap="round" opacity="0.85"/>
+  <text x="32" y="16" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="700" letter-spacing="1" fill="#FCEBAE" opacity="0.55" filter="url(#glow)">SITE</text>
+  <text x="32" y="15" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="700" letter-spacing="1" fill="#1A1A1A">SITE</text>
 </svg>
