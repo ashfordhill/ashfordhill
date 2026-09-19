@@ -3,5 +3,5 @@
 </p>
 
 <div align="center">
-	<a href="https://www.linkedin.com/in/ashfordhill/" style="display:inline-block;margin:0;padding:0;"><img src="assets/badge-li.svg" alt="LinkedIn Badge" width="44" height="28" style="display:block;margin:0 2px;vertical-align:middle;" /></a><a href="https://ashhill.dev" style="display:inline-block;margin:0;padding:0;"><img src="assets/badge-site.svg" alt="Site Badge" width="64" height="28" style="display:block;margin:0 2px;vertical-align:middle;" /></a><a href="mailto:holler@ashhill.dev" style="display:inline-block;margin:0;padding:0;"><img src="assets/badge-email.svg" alt="Email Badge" width="44" height="28" style="display:block;margin:0 2px;vertical-align:middle;" /></a>
+	<a href="https://www.linkedin.com/in/ashfordhill/"><img src="assets/badge-li.svg" alt="LinkedIn Badge" width="44" height="28" /></a>&nbsp;&nbsp;<a href="https://ashhill.dev"><img src="assets/badge-site.svg" alt="Site Badge" width="64" height="28" /></a>&nbsp;&nbsp;<a href="mailto:holler@ashhill.dev"><img src="assets/badge-email.svg" alt="Email Badge" width="44" height="28" /></a>
 </div>
