@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="assets/pumpkin.png" alt="Header" width="400" style="max-width:100%;height:auto;" />
+	<img src="assets/pumpkin-dead.png" alt="Header" width="400" style="max-width:100%;height:auto;" />
 </p>
 
 <div align="center">

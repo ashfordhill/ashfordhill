@@ -13,7 +13,7 @@
       <path d="M28,21 C29,22.7 30.5,22.2 29.7,20.6"/>
     </g>
   </defs>
-  <rect width="44" height="28" rx="4" ry="4" fill="#F2106C"/>
+  <rect width="44" height="28" rx="4" ry="4" fill="#f2a710"/>
   <use href="#letters" stroke="#FCEBAE" opacity="0.55" filter="url(#glow)"/>
   <use href="#flourish" stroke="#FCEBAE" opacity="0.55" filter="url(#glow)"/>
   <use href="#letters" stroke="#1A1A1A"/>
